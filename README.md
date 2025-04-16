@@ -1,4 +1,4 @@
-# My Portfolio Projects
+# Mini Projects
 
 This repository contains the following mini-projects:
 
