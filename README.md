@@ -6,5 +6,5 @@ Tech Used: HTML, CSS.
 Features:
   - Clean,layout
   - Professional resume presentation
-- Live Demo: [Resume Web Page](https://rajath-h-m.github.io/PROJECT_bank_management_system/)  
+- Live Demo: [Resume Web Page](https://rajath-h-m.github.io/resume_web_page/)  
   
