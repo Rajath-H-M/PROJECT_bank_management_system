@@ -9,7 +9,7 @@ Features:
   - Account creation
   - Deposit/Withdrawal operations
   - Display account information
--Link : (https://github.com/Rajath-H-M/PROJECT_bank_management_system/blob/main/bank_management_system.c) 
+- Link: (https://github.com/Rajath-H-M/PROJECT_bank_management_system/blob/main/bank_management_system.c) 
 
 
 ## 2. Resume Web Page
