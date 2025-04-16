@@ -9,7 +9,7 @@ Features:
   - Account creation
   - Deposit/Withdrawal operations
   - Display account information
-(https://github.com/Rajath-H-M/PROJECT_bank_management_system/blob/main/bank_management_system.c) 
+-Link : (https://github.com/Rajath-H-M/PROJECT_bank_management_system/blob/main/bank_management_system.c) 
 
 
 ## 2. Resume Web Page
@@ -18,4 +18,5 @@ Tech Used: HTML, CSS.
 Features:
   - Clean,layout
   - Professional resume presentation
+- Live Demo: [Resume Web Page](https://your-username.github.io/your-repo-name/resume-webpage/)  
   
